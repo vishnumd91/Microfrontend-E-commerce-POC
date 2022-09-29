@@ -1,0 +1,86 @@
+[
+    {
+        "name": "iPhone 11 Pro (64 GB) - Gold",
+        "prodId":"P1001",
+        "quantity":1,
+        "price": "800.00",
+        "source": "https://th.bing.com/th?q=Apple+8+Phone&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+        "description": [
+            "5.8-inch (14.7 cm) Super Retina XDR OLED display.",
+            "Water and dust resistant (4 meters for up to 30 minutes, IP68).",
+            "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras;  Night mode, Portrait mode, and 4K video up to 60fps.",
+            "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo.",
+            "Face ID for secure authentication and Apple Pay."
+          
+        ]
+    },
+    {
+        "name": "iPhone SE (64 GB) - White",
+        "price": "500.25",
+        "quantity":1,
+        "prodId": "P1002",
+        "source": "https://th.bing.com/th/id/OIP.L4ywNMuqcjdpR___1osgMQHaFj?w=243&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": [
+            "Brilliant 4.7-inch Retina HD 1334x750 display.",
+            "12 MP Wide Camera, Digital Zoom Upto 5x.",
+            "7 MP Selfie Camera, iOS 13 Operating System.",
+            "Fingerprint-Resistant Oleophobic Coating.",
+            "IP67 Rated Splash, Water And Dust Resistant."
+        ]
+    },
+    {
+        "name": "Apple Watch 6 (GPS + Cellular) - Blue",
+        "price": "400.45",
+        "quantity":1,
+        "prodId": "P1003",
+        "source": "https://th.bing.com/th/id/OIP.N6Ti56KI9rs6xdzkaSU5KgHaHa?pid=ImgDet&rs=1",
+        "description": [
+            "GPS + Cellular model lets you call, text, and get directions without your phone",
+            "Measure your blood oxygen with an all-new sensor and app.",
+            "Check your heart rhythm with the ECG app.",
+            "The Always-On Retina display is 2.5x brighter outdoors when your wrist is down."
+        ]
+    },
+    {
+        "name": "iPhone 7 Pro (64 GB) - Black",
+        "prodId":"P1004",
+        "quantity":1,
+        "price": "900.75",
+        "source": "https://th.bing.com/th/id/OIP.nxhyzG4z7KkInO_WfSK_nwHaFj?w=217&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": [
+            "5.8-inch (14.7 cm) Super Retina XDR OLED display.",
+            "Water and dust resistant (4 meters for up to 30 minutes, IP68).",
+            "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras;  Night mode, Portrait mode, and 4K video up to 60fps.",
+            "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo.",
+            "Face ID for secure authentication and Apple Pay."
+          
+        ]
+    },
+    {
+        "name": "iPhone 8 (64 GB) - Red ",
+        "price": "950.25",
+        "quantity":1,
+        "prodId": "P1005",
+        "source": "https://th.bing.com/th/id/OIP.pP4KQMDT-YFbFpS6x8IcuAHaI4?w=137&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+        "description": [
+            "Brilliant 4.7-inch Retina HD 1334x750 display.",
+            "12 MP Wide Camera, Digital Zoom Upto 5x.",
+            "7 MP Selfie Camera, iOS 13 Operating System.",
+            "Fingerprint-Resistant Oleophobic Coating.",
+            "IP67 Rated Splash, Water And Dust Resistant."
+        ]
+    },
+    {
+        "name": "Apple Watch 6 (GPS + Cellular) - Black",
+        "price": "600.45",
+        "quantity":1,
+        "prodId": "P1006",
+        "source": "https://i.expansys.net/i/b/b308870-2.jpg",
+        "description": [
+            "GPS + Cellular model lets you call, text, and get directions without your phone",
+            "Measure your blood oxygen with an all-new sensor and app.",
+            "Check your heart rhythm with the ECG app.",
+            "The Always-On Retina display is 2.5x brighter outdoors when your wrist is down."
+        ]
+    }
+]
